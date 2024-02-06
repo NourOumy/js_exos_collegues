@@ -1,0 +1,9 @@
+
+A partir de l’exercice easy reveal, transformer la propriété existante permettant de faire apparaître certains éléments du bas vers le haut en scrollant dessus. 
+De cette manière, rajoutez 2 classes qui permettent de faire apparaitre le texte de la gauche vers la droite et de la droite vers la gauche. Par exemple, si trois éléments sont côte-à-côte, l’élément situé à gauche apparaîtra du côté extérieur gauche, l’élément à droite apparaîtra du côté extérieur droite de l’écran, et l’élément du milieu restera comme sur l’exercice de base (apparition par le bas).
+
+
+•	Créer une classe pour faire apparaître le texte de gauche à droite.
+•	Créer une classe pour faire apparaître le texte de droite à gauche.
+•	Faire en sorte que ces classes soient applicable à plusieurs éléments.
+

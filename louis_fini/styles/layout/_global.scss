@@ -1,0 +1,67 @@
+body {
+    &::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image:url(https://cdn.discordapp.com/attachments/1192817630751490058/1199326704326422620/bg.jpg?ex=65c22308&is=65afae08&hm=05620aa81f820fe581d37671c5c9a1ce0db627bd608a66eab30df7c9b108c0cb&);
+        background-size: 350px;
+        opacity: 0.12;
+        z-index: -1;
+    }
+}
+.wrapper {
+    width:  1000px;
+    margin: 100px auto ;
+    .square {
+        position: relative;
+        font-family: "Roboto", sans-serif;
+        padding:2rem;
+        background:#fff;
+        box-shadow: 1px 1px 10px #0000009d; 
+        border-radius: 10px;
+        .result {
+            color:darkblue;
+            font-weight: 500;
+            span {
+                color: tomato;
+                font-weight: 600;
+            }
+        }
+        .input {
+            padding: 5px 8px;
+            border-radius: 5px;
+            border: 1px solid gray;
+        }
+        .button, .button-refresh {
+            border: 0;
+            background-color: tomato;
+            color: #fff;
+            padding: 7px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .result-erase {
+            display: none;
+        }
+        .input-none {
+            display: none;
+        }
+    }
+}
+
+h1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0; 
+    transform: translateY(-80%);
+    color:#000;
+    text-align: right;
+    font-weight: 200;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+      
+}

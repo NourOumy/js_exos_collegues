@@ -1,0 +1,7 @@
+// Pareil que l'exo "Shop Shop Shop" mais avec des truc en + :)
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+// https://github.com/Ab-Amin/JS-Create
+// Rajouté 1 select avec des numéro de 1 à 10 pour la quantité a coté des boutton.
+// Quand click sur Ajouté, affiche à coté de 'mon panier(0)'.(si prend un item en x2 => +2 etc)
+// Rajouter Prix totale de tout les items prix.
+// Rajouter une liste avec 'mon panier' avec Nom, Prix, Quantité, Prix totale (ex si prix 3x 10€ = 30€).

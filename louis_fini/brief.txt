@@ -1,0 +1,4 @@
+Compare email addresses
+-------------------------------
+
+Grâce à cet outils javascript, on peut vérifier si deux adresses e-mail correspondent avant de, par exemple, les soumettre dans un formulaire.
